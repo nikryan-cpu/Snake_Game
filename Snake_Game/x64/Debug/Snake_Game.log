@@ -1,2 +1,9 @@
-﻿  Source.cpp
-  Snake_Game.vcxproj -> C:\Users\12345678\source\repos\My_Snake_Game\x64\Debug\Snake_Game.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: Two or more files with the name of Source.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Source.cpp, Source.cpp.
+  Game.cpp
+  Source.cpp
+  Snake.cpp
+C:\Users\12345678\source\repos\Snake_Game\Snake_Game\Snake.cpp(34,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+x64\Debug\Source.obj : warning LNK4042: object specified more than once; extras ignored
+  Snake_Game.vcxproj -> C:\Users\12345678\source\repos\Snake_Game\x64\Debug\Snake_Game.exe
